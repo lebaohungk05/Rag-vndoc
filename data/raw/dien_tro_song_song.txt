@@ -1,0 +1,2 @@
+Tiêu đề: Điện trở tương đương của mạch song song
+Nội dung: Đối với một mạch điện gồm n điện trở R1, R2, ..., Rn mắc song song, công thức tính điện trở tương đương (Rtd) là: 1/Rtd = 1/R1 + 1/R2 + ... + 1/Rn. Đặc điểm của mạch song song là điện trở tương đương luôn nhỏ hơn bất kỳ điện trở thành phần nào trong mạch. Trong trường hợp đặc biệt chỉ có hai điện trở R1 và R2 mắc song song, công thức được rút gọn thành: Rtd = (R1 * R2) / (R1 + R2).

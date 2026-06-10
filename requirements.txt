@@ -1,0 +1,9 @@
+faiss-cpu
+numpy
+requests
+sentence-transformers
+evaluate
+rouge-score
+sacrebleu
+pymupdf
+

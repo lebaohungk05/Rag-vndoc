@@ -1,0 +1,2 @@
+Tiêu đề: Đặc điểm của sóng dừng trên dây cố định
+Nội dung: Sóng dừng là kết quả của sự giao thoa giữa sóng tới và sóng phản xạ. Đối với một sợi dây dài l có hai đầu cố định, điều kiện để có sóng dừng là độ dài l phải bằng một số nguyên lần nửa bước sóng: l = k * (λ/2) với k = 1, 2, 3... Trong cấu trúc này, số lượng bụng sóng chính bằng k, trong khi số lượng nút sóng (điểm không dao động, tính cả hai đầu dây) là k + 1. Ví dụ, nếu lực căng dây tăng lên 4 lần, vận tốc sóng v tăng 2 lần (do v = √(T/μ)), dẫn đến tần số cơ bản f1 cũng tăng gấp đôi.

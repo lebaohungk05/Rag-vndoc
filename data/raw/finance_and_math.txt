@@ -1,0 +1,2 @@
+Tiêu đề: Tính toán Tài chính Doanh nghiệp và Giải tích
+Nội dung: Trong phân tích tài chính, Vốn lưu động (Working Capital) được tính bằng Tài sản ngắn hạn trừ đi Nợ ngắn hạn. Nếu biết Tỷ số hiện hành (Current Ratio) là 1.5 và Nợ ngắn hạn là 30.000$, Tài sản ngắn hạn sẽ là 45.000$, dẫn đến vốn lưu động là 15.000$. Trong toán học, điểm uốn của đồ thị hàm số xảy ra khi đạo hàm bậc hai đổi dấu. Với hàm h(x) = (x-1)^4, đạo hàm bậc hai k(x) = 12(x-1)^2 luôn không âm, do đó hàm số này không có điểm uốn.

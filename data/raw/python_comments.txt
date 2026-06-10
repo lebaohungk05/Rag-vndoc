@@ -1,0 +1,2 @@
+Tiêu đề: Cách sử dụng chú thích (Comment) trong Python
+Nội dung: Trong lập trình Python, chú thích giúp mã nguồn dễ hiểu hơn cho con người và được trình thông dịch bỏ qua khi chạy. Có hai loại chính: Chú thích một dòng bắt đầu bằng dấu thăng (#), có thể viết trên dòng riêng hoặc cùng dòng với lệnh. Chú thích nhiều dòng sử dụng bộ ba dấu ngoặc kép (""" hoặc '''), thường được dùng để giải thích chi tiết cho các hàm, lớp hoặc module. Sử dụng chú thích hợp lý là một thói quen tốt của lập trình viên.

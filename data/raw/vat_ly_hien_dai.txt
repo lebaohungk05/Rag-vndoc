@@ -1,0 +1,2 @@
+Tiêu đề: Tán xạ Rutherford và Động lượng tương đối tính
+Nội dung: Công thức tán xạ Rutherford mô tả tiết diện vi phân (dσ/dΩ) cho sự tán xạ của hạt alpha bởi hạt nhân. Nó tỉ lệ thuận với (Z1 * Z2)^2. Nếu số hiệu nguyên tử Z1 của hạt tới gấp đôi, tiết diện vi phân tại một góc cố định sẽ tăng lên gấp 4 lần. Trong thuyết tương đối, động lượng tương đối tính p của một hạt có khối lượng nghỉ m0 chuyển động với vận tốc v được tính bằng: p = (m0 * v) / √(1 - v^2/c^2). Ví dụ, nếu v = 0.6c, p sẽ bằng (m0 * 0.6c) / √(1 - 0.36) = 0.6m0c / 0.8 = 0.75m0c.
